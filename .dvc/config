@@ -1,0 +1,4 @@
+[core]
+    remote = zehra
+['remote "zehra"']
+    url = gdrive://1W4se7ZOm-TkdYUPlQeTnbsWVM3pm7SII
